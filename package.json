@@ -6,7 +6,8 @@
   "author": "hudecsamuel <hudecsamuel@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "koa": "^2.13.0"
+    "koa": "^2.13.0",
+    "newrelic": "^6.13.1"
   },
   "scripts": {
     "start": "node index.js"
